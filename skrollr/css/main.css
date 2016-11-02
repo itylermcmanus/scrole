@@ -1,0 +1,959 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background-color: 	#cd5c5c;
+}
+
+.section{
+	position:absolute;
+	right:0;
+	width:100%;
+	height:100%;
+	position: absolute;
+top: 50%;
+left:50%;
+	
+
+}
+
+
+#box1{ 
+width: 1%;
+height: 1%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 100;
+margin: auto;
+
+}
+
+#box2{ 
+width: 2%;
+height: 2%;
+background-color:	#5588ff;
+position: absolute;
+z-index: 99;
+margin: auto;
+	
+}
+
+#box3{ 
+width: 3%;
+height: 3%;
+background-color:		#bbeeff;
+position: absolute;
+z-index: 98;
+margin: auto;
+
+}
+
+
+#box4{ 
+width: 4%;
+height: 4%;
+background-color:	#99ccff	;
+position: absolute;
+z-index: 97;
+margin: auto;
+}
+
+
+#box5{ 
+width: 5%;
+height: 5%;
+
+background-color:#77aaff;
+position: absolute;
+z-index: 96;
+margin: auto;
+}
+
+
+#box6{ 
+width: 6%;
+height: 6%;
+background-color:#5588ff;
+position: absolute;
+z-index: 95;
+margin: auto;
+
+
+}
+
+
+#box7{ 
+width: 7%;
+height: 7%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 94;
+margin: auto;
+}
+
+
+#box8{ 
+width: 8%;
+height: 8%;
+background-color:#99ccff	;
+position: absolute; 
+z-index: 93;
+margin: auto;
+
+}
+
+
+#box9{ 
+width: 9%;
+height: 9%;
+background-color:#77aaff;
+position: absolute;
+z-index: 92;
+margin: auto;
+}
+
+
+#box10{ 
+width: 10%;
+height: 10%;
+background-color: #5588ff;
+position: absolute;
+z-index: 91;
+margin: auto;
+}
+
+#box11{ 
+width: 11%;
+height: 11%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 90;
+margin: auto;
+}
+
+#box12{ 
+width: 10%;
+height: 10%;
+background-color: #5588ff;
+position: absolute;
+z-index: 89;
+margin: auto;
+}
+
+#box13{ 
+width: 13%;
+height: 13%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 88;
+margin: auto;
+}
+
+#box14{ 
+width: 14%;
+height: 14%;
+background-color: #5588ff;
+position: absolute;
+z-index: 87;
+margin: auto;
+}
+
+#box15{ 
+width: 15%;
+height: 15%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 86;
+margin: auto;
+}
+
+#box16{ 
+width: 16%;
+height: 16%;
+background-color: #5588ff;
+position: absolute;
+z-index: 85;
+margin: auto;
+}
+
+#box17{ 
+width: 17%;
+height: 17%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 84;
+margin: auto;
+}
+
+#box18{ 
+width: 18%;
+height: 18%;
+background-color: #5588ff;
+position: absolute;
+z-index: 83;
+margin: auto;
+}
+
+#box19{ 
+width: 19%;
+height: 19%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 82;
+margin: auto;
+}
+
+#box20{ 
+width: 20%;
+height: 20%;
+background-color: #5588ff;
+position: absolute;
+z-index: 81;
+margin: auto;
+}
+
+#box21{ 
+width: 21%;
+height: 21%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 80;
+margin: auto;
+}
+
+#box22{ 
+width: 22%;
+height: 22%;
+background-color: #5588ff;
+position: absolute;
+z-index: 79;
+margin: auto;
+}
+
+#box23{ 
+width: 23%;
+height: 23%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 78;
+margin: auto;
+}
+
+#box24{ 
+width: 24%;
+height: 24%;
+background-color: #5588ff;
+position: absolute;
+z-index: 77;
+
+}
+
+#box25{ 
+width: 25%;
+height: 25%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 76;
+
+}
+
+#box26{ 
+width: 26%;
+height: 26%;
+background-color: #5588ff;
+position: absolute;
+z-index: 75;
+
+}
+
+#box27{ 
+width: 27%;
+height: 27%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 74;
+
+}
+
+#box28{ 
+width: 28%;
+height: 28%;
+background-color: #5588ff;
+position: absolute;
+z-index: 73;
+
+}
+
+#box29{ 
+width: 29%;
+height: 29%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 72;
+
+}
+
+#box30{ 
+width: 30%;
+height: 30%;
+background-color: #5588ff;
+position: absolute;
+z-index: 71;
+
+}
+
+#box31{ 
+width: 31%;
+height: 31%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 70;
+
+}
+
+#box32{ 
+width: 32%;
+height: 32%;
+background-color: #5588ff;
+position: absolute;
+z-index: 69;
+
+}
+
+#box33{ 
+width: 33%;
+height: 33%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 68;
+
+}
+
+#box34{ 
+width: 34%;
+height: 34%;
+background-color: #5588ff;
+position: absolute;
+z-index: 67;
+
+}
+
+#box35{ 
+width: 35%;
+height: 35%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 66;
+
+}
+
+#box36{ 
+width: 36%;
+height: 36%;
+background-color: #5588ff;
+position: absolute;
+z-index: 65;
+
+}
+
+#box37{ 
+width: 37%;
+height: 37%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 64;
+
+}
+
+#box38{ 
+width: 38%;
+height: 38%;
+background-color: #5588ff;
+position: absolute;
+z-index: 63;
+
+}
+
+#box39{ 
+width: 39%;
+height: 39%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 62;
+
+}
+
+#box40{ 
+width: 40%;
+height: 40%;
+background-color: #5588ff;
+position: absolute;
+z-index: 61;
+
+}
+
+#box41{ 
+width: 41%;
+height: 41%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 60;
+
+}
+
+#box42{ 
+width: 42%;
+height: 42%;
+background-color: #5588ff;
+position: absolute;
+z-index: 59;
+
+}
+
+#box43{ 
+width: 43%;
+height: 43%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 58;
+
+}
+
+#box44{ 
+width: 44%;
+height: 44%;
+background-color: #5588ff;
+position: absolute;
+z-index: 57;
+
+}
+
+#box45{ 
+width: 45%;
+height: 45%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 56;
+
+}
+
+#box46{ 
+width: 46%;
+height: 46%;
+background-color: #5588ff;
+position: absolute;
+z-index: 55;
+
+}
+
+#box47{ 
+width: 47%;
+height: 47%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 54;
+
+}
+
+#box48{ 
+width: 48%;
+height: 48%;
+background-color: #5588ff;
+position: absolute;
+z-index: 53;
+
+}
+
+#box49{ 
+width: 49%;
+height: 49%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 52;
+
+}
+
+#box50{ 
+width: 50%;
+height: 50%;
+background-color: #5588ff;
+position: absolute;
+z-index: 51;
+
+}
+
+
+#box51{ 
+width: 51%;
+height: 51%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 50;
+
+}
+
+#box52{ 
+width: 52%;
+height: 52%;
+background-color: #5588ff;
+position: absolute;
+z-index: 49;
+
+}
+
+#box53{ 
+width: 53%;
+height: 53%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 48;
+
+}
+
+#box54{ 
+width: 54%;
+height: 54%;
+background-color: #5588ff;
+position: absolute;
+z-index: 47;
+
+}
+
+#box55{ 
+width: 55%;
+height: 55%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 46;
+
+}
+
+#box56{ 
+width: 46%;
+height: 46%;
+background-color: #5588ff;
+position: absolute;
+z-index: 45;
+
+}
+
+#box57{ 
+width: 57%;
+height: 57%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 44;
+
+}
+
+#box58{ 
+width: 58%;
+height: 58%;
+background-color: #5588ff;
+position: absolute;
+z-index: 43;
+
+}
+
+#box59{ 
+width: 59%;
+height: 59%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 42;
+
+}
+
+#box60{ 
+width: 60%;
+height: 60%;
+background-color: #5588ff;
+position: absolute;
+z-index: 41;
+
+}
+
+#box61{ 
+width: 61%;
+height: 61%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 40;
+
+}
+
+#box62{ 
+width: 62%;
+height: 62%;
+background-color: #5588ff;
+position: absolute;
+z-index: 39;
+
+}
+
+#box63{ 
+width: 63%;
+height: 63%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 38;
+
+}
+
+#box64{ 
+width: 64%;
+height: 64%;
+background-color: #5588ff;
+position: absolute;
+z-index: 37;
+
+}
+
+#box65{ 
+width: 65%;
+height: 65%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 36;
+
+}
+
+#box66{ 
+width: 66%;
+height: 66%;
+background-color: #5588ff;
+position: absolute;
+z-index: 35;
+
+}
+
+#box67{ 
+width: 67%;
+height: 67%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 34;
+
+}
+
+#box68{ 
+width: 68%;
+height: 68%;
+background-color: #5588ff;
+position: absolute;
+z-index: 33;
+
+}
+
+#box69{ 
+width: 69%;
+height: 69%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 32;
+
+}
+
+#box70{ 
+width: 70%;
+height: 70%;
+background-color: #5588ff;
+position: absolute;
+z-index: 31;
+
+}
+
+#box71{ 
+width: 71%;
+height: 71%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 30;
+
+}
+
+#box72{ 
+width: 72%;
+height: 72%;
+background-color: #5588ff;
+position: absolute;
+z-index: 29;
+
+}
+
+#box73{ 
+width: 73%;
+height: 73%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 28;
+
+}
+
+#box74{ 
+width: 74%;
+height: 74%;
+background-color: #5588ff;
+position: absolute;
+z-index: 27;
+
+}
+
+#box75{ 
+width: 75%;
+height: 75%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 26;
+
+}
+
+#box76{ 
+width: 76%;
+height: 76%;
+background-color: #5588ff;
+position: absolute;
+z-index: 25;
+
+}
+
+#box77{ 
+width: 77%;
+height: 77%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 24;
+
+}
+
+#box78{ 
+width: 78%;
+height: 78%;
+background-color: #5588ff;
+position: absolute;
+z-index: 23;
+
+}
+
+#box79{ 
+width: 79%;
+height: 79%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 22;
+
+}
+
+#box80{ 
+width: 80%;
+height: 80%;
+background-color: #5588ff;
+position: absolute;
+z-index: 21;
+
+}
+
+#box81{ 
+width: 81%;
+height: 81%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 20;
+
+}
+
+#box82{ 
+width: 82%;
+height: 82%;
+background-color: #5588ff;
+position: absolute;
+z-index: 19;
+
+}
+
+#box83{ 
+width: 83%;
+height: 83%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 18;
+
+}
+
+#box84{ 
+width: 84%;
+height: 84%;
+background-color: #5588ff;
+position: absolute;
+z-index: 17;
+
+}
+
+#box85{ 
+width: 85%;
+height: 85%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 16;
+
+}
+
+#box86{ 
+width: 86%;
+height: 86%;
+background-color: #5588ff;
+position: absolute;
+z-index: 15;
+
+}
+
+#box87{ 
+width: 87%;
+height: 87%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 14;
+
+}
+
+#box88{ 
+width: 88%;
+height: 88%;
+background-color: #5588ff;
+position: absolute;
+z-index: 13;
+
+}
+
+#box89{ 
+width: 89%;
+height: 89%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 12;
+
+}
+
+#box90{ 
+width: 90%;
+height: 90%;
+background-color: #5588ff;
+position: absolute;
+z-index: 11;
+
+}
+
+#box91{ 
+width: 91%;
+height: 91%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 10;
+
+}
+
+#box92{ 
+width: 92%;
+height: 92%;
+background-color: #5588ff;
+position: absolute;
+z-index: 9;
+
+}
+
+#box93{ 
+width: 93%;
+height: 93%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 8;
+
+}
+
+#box94{ 
+width: 94%;
+height: 94%;
+background-color: #5588ff;
+position: absolute;
+z-index: 7;
+
+}
+
+#box95{ 
+width: 95%;
+height: 95%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 6;
+
+}
+
+#box96{ 
+width: 96%;
+height: 96%;
+background-color: #5588ff;
+position: absolute;
+z-index: 5;
+
+}
+
+#box97{ 
+width: 97%;
+height: 97%;
+background-color:#bbeeff;
+position: absolute;
+z-index: 4;
+
+}
+
+#box98{ 
+width: 98%;
+height: 98%;
+background-color: #5588ff;
+position: absolute;
+z-index: 3;
+
+}
+
+#box99{ 
+width: 99%;
+height: 99%;
+background-color: #bbeeff;
+position: absolute;
+z-index: 2;
+
+}
+
+#box100{ 
+width: 100%;
+height: 100%;
+background-color: #5588ff;
+position: absolute;
+z-index: 1;
+
+}
+
+
+
+#section1{
+		width: 100%;
+	height: 100%;
+}
+
+#section2{
+	background-color: blue;
+}
